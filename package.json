@@ -1,0 +1,25 @@
+{
+  "name": "fancybox",
+  "version": "2.1.5",
+  "description": "fancybox",
+  "main": "source/jquery.fancybox.pack.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Feoni4/fancybox.git"
+  },
+  "keywords": [
+    "fancybox"
+  ],
+  "author": "Jānis Skarnelis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Feoni4/fancybox/issues"
+  },
+  "homepage": "https://github.com/Feoni4/fancybox#readme"
+}
